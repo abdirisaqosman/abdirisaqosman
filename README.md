@@ -27,28 +27,17 @@
 ## Projects
 
 <div align="center">
-
-<a href="https://github.com/abdirisaqosman/resume-tailor">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=resume-tailor&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/abdirisaqosman/pulse">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=pulse&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/abdirisaqosman/leadscout">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=leadscout&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/abdirisaqosman/somalia-history-video">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=somalia-history-video&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-</a>
-
+<table>
+<tr>
+<td><a href="https://github.com/abdirisaqosman/resume-tailor"><img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=resume-tailor&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" /></a></td>
+<td><a href="https://github.com/abdirisaqosman/pulse"><img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=pulse&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/abdirisaqosman/leadscout"><img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=leadscout&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" /></a></td>
+<td><a href="https://github.com/abdirisaqosman/somalia-history-video"><img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=somalia-history-video&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" /></a></td>
+</tr>
+</table>
 </div>
-
-| Repo | Description |
-|---|---|
-| **[resume-tailor](https://github.com/abdirisaqosman/resume-tailor)** | AI resume tailoring — upload a resume and a job description, get back a tailored resume (PDF) and a matching cover letter. Next.js, TypeScript, pluggable LLM providers (Claude / GPT / Gemini). |
-| **[pulse](https://github.com/abdirisaqosman/pulse)** | Self-hosted uptime monitor — Fastify API + worker + React dashboard, deployed on Kubernetes with a Cloudflare Tunnel. |
-| **[leadscout](https://github.com/abdirisaqosman/leadscout)** | Local-business lead finder — pluggable scrapers (Google Places / Playwright) feeding background jobs, Postgres, a FastAPI backend, and a React dashboard. |
-| **[somalia-history-video](https://github.com/abdirisaqosman/somalia-history-video)** | Bilingual (EN/TR) animated timeline of Somali history, built with Remotion. |
 
 <br>
 
