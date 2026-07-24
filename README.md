@@ -1,8 +1,14 @@
 <div align="center">
 
-# Abdirisaq Osman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Abdirisaq%20Osman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-Full-stack developer building web apps, AI-powered tools, and client sites.
+<a href="https://github.com/abdirisaqosman/resume-tailor">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=Building+web+apps+%26+AI-powered+tools;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Docker;Shipping+client+sites+%26+small+SaaS+tools" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdirisaqosman&label=Profile%20views&color=4F46E5&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -10,20 +16,34 @@ Full-stack developer building web apps, AI-powered tools, and client sites.
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,postgres,docker,kubernetes,tailwind,fastapi,git&theme=dark" />
+
+</div>
 
 <br>
 
 ## Projects
 
+<div align="center">
 
+<a href="https://github.com/abdirisaqosman/resume-tailor">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=resume-tailor&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/abdirisaqosman/pulse">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=pulse&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/abdirisaqosman/leadscout">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=leadscout&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/abdirisaqosman/somalia-history-video">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abdirisaqosman&repo=somalia-history-video&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+</a>
+
+</div>
+
+| Repo | Description |
 |---|---|
 | **[resume-tailor](https://github.com/abdirisaqosman/resume-tailor)** | AI resume tailoring — upload a resume and a job description, get back a tailored resume (PDF) and a matching cover letter. Next.js, TypeScript, pluggable LLM providers (Claude / GPT / Gemini). |
 | **[pulse](https://github.com/abdirisaqosman/pulse)** | Self-hosted uptime monitor — Fastify API + worker + React dashboard, deployed on Kubernetes with a Cloudflare Tunnel. |
@@ -32,4 +52,19 @@ Full-stack developer building web apps, AI-powered tools, and client sites.
 
 <br>
 
+## GitHub Stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=abdirisaqosman&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=abdirisaqosman&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+
+</div>
