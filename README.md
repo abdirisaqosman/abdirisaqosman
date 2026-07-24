@@ -32,9 +32,4 @@ Full-stack developer building web apps, AI-powered tools, and client sites.
 
 <br>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirisaqosman&show_icons=true&hide_title=true&hide_border=true&count_private=true)
-
-</div>
 
