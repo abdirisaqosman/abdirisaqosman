@@ -23,7 +23,7 @@ Full-stack developer building web apps, AI-powered tools, and client sites.
 
 ## Projects
 
-| | |
+
 |---|---|
 | **[resume-tailor](https://github.com/abdirisaqosman/resume-tailor)** | AI resume tailoring — upload a resume and a job description, get back a tailored resume (PDF) and a matching cover letter. Next.js, TypeScript, pluggable LLM providers (Claude / GPT / Gemini). |
 | **[pulse](https://github.com/abdirisaqosman/pulse)** | Self-hosted uptime monitor — Fastify API + worker + React dashboard, deployed on Kubernetes with a Cloudflare Tunnel. |
